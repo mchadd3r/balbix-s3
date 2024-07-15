@@ -1,0 +1,7 @@
+pandas[performance]
+uvicorn
+fastapi
+# jupyterlab
+# pylint
+# black
+httpx[http2]
